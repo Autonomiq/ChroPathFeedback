@@ -1,4 +1,4 @@
-# AutonomiqChropath
+# Chropath
 Use this repo to raise the issue/feature request related to ChroPath.
 
 ChroPath generates unique relative xpath, absolute xpath, cssSelectors, linkText and partialLinkText just by one click. ChroPath can also be used as Editor for selectors. It makes easy to write, edit, extract, and evaluate XPath queries on any webpage. ChroPath also supports iframe and dynamic id.
